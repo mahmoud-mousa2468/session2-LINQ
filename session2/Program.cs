@@ -1,5 +1,4 @@
-﻿using System.Text.RegularExpressions;
-namespace session2
+﻿namespace session2
 {
     internal class Program
     {
